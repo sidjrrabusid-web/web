@@ -9,13 +9,13 @@
 
 const CONFIG = {
   // Bot invite link - users will be redirected here when clicking "Invite Kali Billi"
-  botInviteUrl: "https://discord.com/api/oauth2/authorize?client_id=YOUR_BOT_CLIENT_ID&permissions=8&scope=bot",
+  botInviteUrl: "https://discord.com/oauth2/authorize?client_id=1437131632355049553",
   
   // Support server invite link - users will be redirected here for support
-  supportServerUrl: "https://discord.gg/YOUR_SERVER_INVITE_CODE",
+  supportServerUrl: "https://discord.gg/FDPC6xajtn",
   
   // Bot name (for display)
-  botName: "Kali Billi",
+  botName: "INFINITY",
   
   // Bot description
   botDescription: "Your Cute Discord Companion - Fun, moderation, and AI chat for your Discord server."
