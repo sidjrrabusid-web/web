@@ -1,4 +1,4 @@
-# 🐱 Kali Billi Bot - Website
+# Infinity - Website
 
 A cute and interactive Discord bot website built with modern web technologies. Features a responsive design, interactive game, feedback modal, and configurable bot links.
 
